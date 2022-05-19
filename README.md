@@ -9,7 +9,7 @@ My Skill Set:
 - Node.JS
 - MongoDB
 
-Take a look at how I transfer my skills into live projects on my [website](https://kellycastanos.netlify.app/).
+Take a look at how I transfer my skills into live projects on my [website](https://www.kellycastanos.com/).
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/kelly-castanos/) and let's chat about open source projects, nontraditional backgrounds and the importance of diversifying tech! 
 <!---
