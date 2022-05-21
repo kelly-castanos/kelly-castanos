@@ -11,7 +11,7 @@ My Skill Set:
 
 Take a look at how I transfer my skills into live projects on my [website](https://www.kellycastanos.com/).
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/kelly-castanos/) and let's chat about open source projects, nontraditional backgrounds and the importance of diversifying tech! 
+Let's connect on [LinkedIn](https://www.linkedin.com/in/kelly-castanos/) and let's chat about open source projects, nontraditional backgrounds and the importance of diversifying tech! ✨
 <!---
 kelly-castanos/kelly-castanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
